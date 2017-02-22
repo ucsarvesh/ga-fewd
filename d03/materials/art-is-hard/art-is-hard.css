@@ -1,0 +1,29 @@
+body {
+  font-family: arial;
+}
+
+h1, h2 {
+  color: gray;
+}
+
+h1 {
+  font-size: 60px;
+  font-style: bold;
+}
+
+#titlepp {
+  color: gray;
+  font-size: 12px;
+}
+
+#copywright {
+  font-size: 16px;
+}
+
+.fineprint {
+  font-size: 12px;
+}
+
+.uglyart {
+  border-radius: 10px;
+}

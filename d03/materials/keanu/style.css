@@ -1,0 +1,16 @@
+#About {
+  color: white;
+  background-color: red;
+}
+
+.highlight {
+  color: green;
+}
+
+.fav {
+  color: green;
+  background-color: blue;
+}
+a {
+  color: red;
+}
