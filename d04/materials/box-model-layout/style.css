@@ -1,0 +1,36 @@
+h1 {
+  color: white;
+  font-size: 16px;
+  background-color: black;
+  padding: 10px 0;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  background-color: darksalmon;
+  padding: 20px 10px 20px 10px;
+}
+
+#blue {
+  color: blue;
+  margin-bottom: 10px;
+}
+
+#green {
+  color: green;
+  margin-bottom: 10px;
+}
+
+#yellow {
+  color: yellow;
+}
+
+div {
+  background-color: lightgray;
+  padding: 25px 15px 25px 15px;
+}
+
+body {
+  padding: 0px 30px 0px 30px;
+}
