@@ -1,0 +1,36 @@
+body {
+  font-family: Arial; 
+  padding: 10px 50px 10px 50px
+}
+
+div {
+  border: solid gray 3px;
+  background-color: white;  
+}
+
+#leftblock {
+  display: inline-block;
+  float: left;
+  margin: 0px 10px 10px 0px;
+  height: 300px;
+  width: 750px;
+  background-color: lightgray;
+}
+
+#rightblock {
+  display: inline-block;
+  clear: right;
+  height: 300px;
+  width: 350px;
+  background-color: lightgray;
+}
+
+#top {
+  padding: 25px 25px;
+  margin: 0px 0px 10px 0px;
+}
+
+#bottom {
+  padding: 25px 25px;
+  margin: 10px 0px 0px 0px
+}
