@@ -1,0 +1,22 @@
+.red-box {
+  display: inline-block;
+  height: 100px;
+  width: 49%;
+  background-color: red;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.other-box {
+  display: inline-block;
+  height: 100px;
+  width: 49%;
+  background-color: red;
+  margin: 10px auto 10px auto;
+}
+
+.year {
+  color: green;
+  font-style: italic;
+}

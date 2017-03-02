@@ -1,0 +1,25 @@
+body {
+  background-color: #46739A;
+  text-align: center;
+  font-family: 'Open', sans-serif;
+}
+
+#bottomnav {
+  background-color: white;
+  font-size: 0;
+}
+
+img {
+  display: inline-block;
+  overflow-wrap: auto;
+}
+
+#bottomnav a {
+  text-decoration: none;
+  font-size:12px;
+  color: #11395D; 
+}
+
+a {
+  padding: 10px 10px 10px 10px;
+}
