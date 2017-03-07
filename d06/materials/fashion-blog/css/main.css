@@ -1,0 +1,78 @@
+body, h1, h2, h3, h4 {
+  color: grey;
+  font-family: 'Lato', sans-serif;
+  font-weight: lighter;
+  line-height: 1.5;
+}
+
+a:hover {
+  color: black;
+}
+
+h3 {
+  color: lightgray;
+  font-size: 48px;
+  margin-bottom: 0px
+}
+
+h4 {
+  color: black;
+  font-size: 36px;
+  margin-top: 10px;
+  margin-bottom: auto;
+}
+
+img {
+  display: inline-block;
+  width: 100%;
+}
+
+p {
+  font-weight: normal;
+}
+
+.post {
+  width: 700px;
+}
+
+.Continues {
+  color: #DD0000;
+  text-decoration: none;
+}
+
+.Continues:hover {
+  color: #aa0000;
+}
+
+#title {
+  color: red;
+  font-size: 72px;
+  margin: auto auto 10px auto;
+  padding: 0px 0px;
+}
+
+#subtitle {
+  color: black;
+  font-size: 36px;
+  margin: 0px auto auto auto;
+}
+
+#topnav {
+  font-size: 24px;
+  margin-bottom: 75px;
+}
+
+.header {
+  color: #dddddd;
+  margin: 10px 10px 25px auto;
+}
+
+.bottomlinks {
+  color: red;
+  text-decoration: none;
+}
+
+#footer {
+  color: #bbbbbb;
+  font-size: 16px;
+}
