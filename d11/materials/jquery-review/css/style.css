@@ -1,0 +1,16 @@
+.box {
+  display: inline-block;
+  margin: 10px 10px;
+  border: solid 1px;
+  height: 200px;
+  width: 200px;
+}
+
+.bigger {
+  width: 500px;
+  height: 500px;
+  font-size: 40px;
+  padding-top: 210px;
+  text-align: center;
+  box-sizing: border-box;
+}
