@@ -1,0 +1,70 @@
+button {
+  width: 50px;
+  height: 25px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  display: inline-block;
+  background-color: white;
+}
+
+#file {
+  position: relative;
+}
+
+button:focus {
+  background-color: lightgray;
+}
+
+.dropdown {
+  width: 75px;
+  border: 1px solid lightgray;
+  padding-left: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  margin-top: 1px;
+  box-shadow: 1px 1px 1px;
+  display: none;
+}
+
+.dropdown-clicked {
+  display: block;
+  background-color: white;
+  position: absolute;
+  top: 35px;
+}
+
+#edit {
+  position: relative;
+}
+
+.edit-dropdown {
+  width: 75px;
+  border: 1px solid lightgray;
+  padding-left: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  margin-top: 1px;
+  box-shadow: 1px 1px 1px;
+  margin-left: 52px;
+  display: none;
+}
+
+.edit-clicked {
+  display: block;
+  background-color: white;
+  position: absolute;
+  top: 35px;
+}
+
+
+li {
+   list-style: none;
+   margin-left: 0px;
+   padding-left: 10px;
+}
+
+li:hover {
+  background-color: lightgray;
+}
