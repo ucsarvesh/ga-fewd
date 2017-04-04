@@ -4,16 +4,29 @@
   <meta charset="UTF-8">
   <title>Responsive Nav</title>
   <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" href="css/simple-grid.css">
 </head>
 <body>
 
-  <h1>Ice Cream Shop!</h1>
+  <div class="grid">
+    <div class="header col-1-1">
+      <div id="menu">
+        <div class="menu-lin"></div>
+        <div class="menu-lin"></div>
+        <div class="menu-lin"></div>
+      </div>
+      <div class="col-1-2">
+        <h3>Ice Cream Shop!</h3>
+      </div>
+      <div class="nav col-1-2">
+        <a href="#">About Us</a>
+        <a href="#">Menu</a>
+        <a href="#">Jobs</a>
+      </div>
+    </div>
+  </div>
 
-  <nav class="nav">
-    <a href="#">About Us</a>
-    <a href="#">Menu</a>
-    <a href="#">Jobs</a>
-  </nav>
+
 
   <script src="js/project.js"></script>
 </body>
